@@ -1,2 +1,4 @@
 def return_not_none():
-    return None
+    return not None
+
+print(return_not_none())
